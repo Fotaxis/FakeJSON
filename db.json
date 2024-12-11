@@ -4,48 +4,22 @@
         {
             "id": 1,
             "type": "light",
-            "reading": 42.0,
-            "reference": 30.0,
+            "reading": 42,
+            "reference": 30,
             "device": 1
         },
         {
             "id": 2,
             "type": "moist",
-            "reading": 52.0,
-            "reference": 80.0,
+            "reading": 52,
+            "reference": 80,
             "device": 1
         },
         {
             "id": 3,
             "type": "temperature",
-            "reading": 28.0,
-            "reference": 40.0,
-            "device": 1
-        }
-    ],
-    "actuators": [
-        {
-            "id": 1,
-            "type": "lamp",
-            "status": false,
-            "device": 1
-        },
-        {
-            "id": 2,
-            "type": "shower",
-            "status": true,
-            "device": 1
-        },
-        {
-            "id": 3,
-            "type": "cooler",
-            "status": false,
-            "device": 1
-        },
-        {
-            "id": 4,
-            "type": "heater",
-            "status": true,
+            "reading": 28,
+            "reference": 40,
             "device": 1
         }
     ]
