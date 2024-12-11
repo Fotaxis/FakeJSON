@@ -1,5 +1,5 @@
 {
-    "something": "text",
+    "someText": "text",
     "sensors": [
         {
             "id": 1,
